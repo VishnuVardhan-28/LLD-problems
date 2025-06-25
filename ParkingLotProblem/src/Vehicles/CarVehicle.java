@@ -5,7 +5,7 @@ public class CarVehicle extends Vehicle{
     private static final double RATE = 10.0;
 
     public CarVehicle(String licensePlate) {
-        super(licensePlate, "Car");
+        super("Car", licensePlate);
     }
 
     @Override

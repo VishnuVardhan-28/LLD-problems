@@ -41,7 +41,7 @@ public class ParkingLot {
         }
     }
 
-    public ParkingSpot getSpotNumber(int spotNumber){
+    public ParkingSpot getSpotByNumber(int spotNumber){
         for(ParkingFloor parkingFloor : parkingFloors){
             for(ParkingSpot parkingSpot : parkingFloor.getSpots()){
                 if(parkingSpot.getSpotNumber() == spotNumber){

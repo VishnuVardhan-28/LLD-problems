@@ -32,6 +32,7 @@ public class PaymentService {
                 break;
             case 2:
                 payment = new Payment(fee, new DebitCardPayment());
+                break;
             case 3:
                 payment = new Payment(fee, new CashPayment());
                 break;

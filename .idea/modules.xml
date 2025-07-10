@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LLD-problems.iml" filepath="$PROJECT_DIR$/.idea/LLD-problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/ParkingLotProblem/ParkingLotProblem.iml" filepath="$PROJECT_DIR$/ParkingLotProblem/ParkingLotProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SnakeLadderGame/SnakeLadderGame.iml" filepath="$PROJECT_DIR$/SnakeLadderGame/SnakeLadderGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/TicTacToeProblem/TicTacToeProblem.iml" filepath="$PROJECT_DIR$/TicTacToeProblem/TicTacToeProblem.iml" />
     </modules>
   </component>
